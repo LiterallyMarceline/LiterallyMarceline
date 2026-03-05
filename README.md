@@ -6,8 +6,7 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have travelled around the world.
 
-heres my pronouns page:
-https://pronouns.cc/@literallymarceline
+[heres my pronouns page](https://pronouns.cc/@literallymarceline)
 <!---
 LiterallyMarceline/LiterallyMarceline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
